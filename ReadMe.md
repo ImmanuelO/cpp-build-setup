@@ -13,3 +13,6 @@ spike/ I often write smaller classes or files to test technologies or ideas, and
 src/ The application and only the application’s source files.
 
 test/ All test code files. You do write tests, no?
+
+
+Repository to setup a C++ build environment with CMake. Should write a test script that will consistently setup my build environment as described. 
